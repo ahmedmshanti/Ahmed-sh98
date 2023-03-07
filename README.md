@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/Ahmed-sh98">
-<img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=30&pause=1000&color=2C9ACAE6&background=112C6746&center=true&vCenter=true&width=435&lines=Web+Developer;Front-End+Developer" alt="Typing SVG" /></a>
+<img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=30&pause=1000&color=2C9ACAE6&background=FFFFFF46&center=true&vCenter=true&width=435&lines=Web+Developer;Front-End+Developer" alt="Typing SVG" /></a>
 </p>
 <h1 align="center"></h1>
 <img align="left" height="150px" width="350px" src="https://github-readme-stats.vercel.app/api?username=ahmedd&count_private=true&show_icons=true&theme=tokyonight" />
