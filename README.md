@@ -2,11 +2,12 @@
 
 <p align="center">
   <a href="https://github.com/Ahmed-sh98">
-<img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=30&pause=1000&color=2C9ACAE6&background=FFFFFF46&center=true&vCenter=true&width=435&height=50&lines=Web+Developer;Front-End+Developer" alt="Typing SVG" /></a>
+<img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=30&pause=1000&color=2C9ACAE6&background=112C6746&center=true&vCenter=true&width=435&lines=Web+Developer;Front-End+Developer" alt="Typing SVG" /></a>
 </p>
 <h1 align="center"></h1>
-<img align="left" height="150px" width="350px" src="https://github-readme-stats.vercel.app/api?username=ahmedd&count_private=true&show_icons=true&theme=tokyonight" />
-<img align="right" height="150px" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedd&layout=compact&theme=aura&langs_count=9" />
+<img align="left" height="150px" width="350px" src="https://github-readme-stats.vercel.app/api?username=Ahmed-sh98&count_private=true&show_icons=true&theme=tokyonight" />
+<img align="right" height="150px" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-sh98&layout=compact&theme=aura&langs_count=9" />
+
 <img height="150" />
 <br><br>
 <img align="center" alt="GIF" src="https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0404fc31f30b08a0d919c558404/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966" width="100%" height="400px" />
@@ -24,6 +25,8 @@ Specialize in building cross-browser compatible web user interfaces using style 
 </p>
 <br>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmedd&theme=tokyonight&no-frame=true&row=1&&margin-w=30&no-bg=false" alt="bc-expert" width="600px"/></a> </p>
+<br/>
+<br/>
 <p align="center">
   <img src="https://github.com/akshitagupta15june/akshitagupta15june/blob/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
