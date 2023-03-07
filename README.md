@@ -23,12 +23,9 @@ Specialize in building cross-browser compatible web user interfaces using style 
  innovative technologies.
 </p>
 <br>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmedd&theme=tokyonight&no-frame=true&row=1&&margin-w=30&no-bg=false" alt="bc-expert" width="600px"/></a> </p>
+
 <br/>
-<br/>
-<p align="center">
-  <img src="https://github.com/akshitagupta15june/akshitagupta15june/blob/output/github-contribution-grid-snake.svg" alt="snake"></center>
-</p>
+
 <br>
 <h2 font-weight="bold">𝐒𝐤𝐢𝐥𝐥 𝐒𝐞𝐭</h2>
 <table>
@@ -57,9 +54,6 @@ Specialize in building cross-browser compatible web user interfaces using style 
 		<img src="https://cdn.iconscout.com/icon/free/png-256/web-earth-online-market-planet-search-secure-1-9563.png" width="40" height="40"></a>
 		<a style="margin-left: 10px;" target="_blank" href="https://twitter.com/AhmedSa36611148">
 			<img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" ></a>
- 
-		 
-
 </p>
 
  
