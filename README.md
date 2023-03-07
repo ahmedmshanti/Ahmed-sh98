@@ -16,7 +16,6 @@
 <h2 align="left" font-weight="bold">About me</h2>
 <p>
 I’m a Senior Front-End Developer. Ahmed can build complete responsive web pages .
-
 Specialize in building cross-browser compatible web user interfaces using style guide development 
  approach and components standardization.
  Ahmed is passionate about elegant user interfaces, resolving usability issues, and prototype user testing. 
