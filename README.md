@@ -54,9 +54,7 @@ Specialize in building cross-browser compatible web user interfaces using style 
 		<img src="https://cdn.iconscout.com/icon/free/png-256/web-earth-online-market-planet-search-secure-1-9563.png" width="40" height="40"></a>
 		<a style="margin-left: 10px;" target="_blank" href="https://twitter.com/AhmedSa36611148">
 			<img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" ></a>
-</p>
-img src="https://raw.githubusercontent.com/trinib/trinib/snake/github-contribution-grid-snake-dark.svg" alt="Aditya Kumar" width="100%" height="100%" style="max-width: 100%;">
-<imgsrc="https://cloudfour.com/wp-content/uploads/2019/11/comet-r2.gif"  width="100%" height="100%" style="max-width: 100%;"  >
+ 
 
  
 
